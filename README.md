@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hi I'am Lukáš Kaleta 👋
+
+## Technology stack
+* React
+* React Native
+* Vue
+* Firebase
+
+## Social
+* [Facebook](https://www.facebook.com/lk.lukaskaleta/)
+* [Twitter](https://twitter.com/lukekaleta)
+* [Gitlab](https://gitlab.com/lukekaleta)
+* [YouTube](https://www.youtube.com/uAjtaka)
 
 <!--
 **lukekaleta/lukekaleta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
