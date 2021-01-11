@@ -1,4 +1,4 @@
-# Hi I'am Lukáš Kaleta 👋
+# Hi, I'am Lukáš Kaleta 👋
 
 ## ⚡️ Technology stack
 * React
