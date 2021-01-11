@@ -1,12 +1,12 @@
 # Hi I'am Lukáš Kaleta 👋
 
-## Technology stack
+## ⚡️ Technology stack
 * React
 * React Native
 * Vue
 * Firebase
 
-## Social
+## 💬 Social
 * [Facebook](https://www.facebook.com/lk.lukaskaleta/)
 * [Twitter](https://twitter.com/lukekaleta)
 * [Gitlab](https://gitlab.com/lukekaleta)
